@@ -1,2 +1,4 @@
 Hidden Layers,Activation,Solver,Learning Rate,Batch Size,Regularization Strength,Train Accuracy,Validation Accuracy
 100,relu,adam,0.001,auto,0.0001,0.9794246014073217,0.5757035981474884
+100,relu,lbfgs,0.001,auto,0.0001,0.999109290104213,0.5764161026006412
+100,relu,sgd,0.001,auto,0.0001,0.999109290104213,0.5995724973281084
